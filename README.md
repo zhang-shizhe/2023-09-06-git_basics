@@ -4,3 +4,5 @@
 - `status`:
 - `add <File(s)>`: into staging area
 - `commit`: 
+
+# test on changing my git emails
