@@ -4,5 +4,7 @@
 - `status`:
 - `add <File(s)>`: into staging area
 - `commit`: 
+- `push <origin> <master>`
+- `pull <origin> <master>`
 
 # test on changing my git emails
