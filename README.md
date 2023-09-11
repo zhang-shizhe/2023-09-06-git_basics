@@ -11,5 +11,5 @@
     - `log --oneline`
 
 - `diff`
-
+    - `diff --staged`
 # test on changing my git emails
