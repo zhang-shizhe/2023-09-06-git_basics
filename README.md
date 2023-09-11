@@ -7,4 +7,9 @@
 - `push <origin> <master>`
 - `pull <origin> <master>`
 
+- `log`
+    - `log --oneline`
+
+- `diff`
+
 # test on changing my git emails
